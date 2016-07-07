@@ -1,4 +1,3 @@
-layout_spectrum: 0.3803823401685804
 typography_spectrum: 0.1534399390220642
 color:
   brandStrength: 0.3957000633236021
@@ -11,8 +10,12 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-name: Photographie Immobilière Rive-Sud
+opengraph:
+  image: null
+  appId: www.facebook.com/alden.morriscyr
+layout_spectrum: 0.3803823401685804
 author:
   name: Alden Morris
   email: photos@aldenmorris.com
   url: ''
+name: Photographie Immobilière Rive-Sud
